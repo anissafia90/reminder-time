@@ -1,0 +1,19 @@
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.border{
+  color: black;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  box-shadow: 1px 2px 3px rgb(188, 187, 187);
+}
